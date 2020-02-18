@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#737474</color>
+    <color name="colorPrimaryDark">#12171D</color>
+    <color name="colorAccent">#BFBFBF</color>
+
+    <color name="bgColor">#262D38</color>
+
+    <color name="rvElementcolor">#3A3F52</color>
+    <color name="bgtorial">#3F3C56</color>
+</resources>
